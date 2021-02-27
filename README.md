@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohnDominicJasmin
 - 👀 I’m interested in Mobile,Web and Desktop Development
-- 🌱 I’m currently learning Java and C++
+- 🌱 I’m currently learning Java VBNET, Mysql and C++
 - 💞️ I’m looking to collaborate on anyone who knows how to code
 - 📫 How to reach me johndominicjasmin@gmail.com
 
