@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anyone who knows how to code
 - 📫 How to reach me johndominicjasmin@gmail.com
 
-This is way better than a steam profile full of games
+Check out my youtube channel https://youtu.be/G1IbRujko-A
 
 <!---
 JohnDominicJasmin/JohnDominicJasmin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
