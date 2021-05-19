@@ -2,7 +2,7 @@
 - 💞️ I’m looking to collaborate on anyone who knows how to code
 - 📫 How to reach me johndominicjasmin@gmail.com
 
-Check out my youtube channel https://youtu.be/G1IbRujko-A
+https://youtu.be/G1IbRujko-A
 
 My Portfolio https://cyklan.de/
 <!---
