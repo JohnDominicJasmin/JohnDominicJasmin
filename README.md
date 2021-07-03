@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm John Dominic Jasmin</h1>
-<h3 align="center">A passionate Software Engineer</h3>
+<h1 align="center">Hi 👋, I'm John Dominic </h1>
+<h3 align="center">A Passionate Software Engineer</h3>
 
 - 🌱 I’m currently learning Native Development using **Java|Kotlin**
 
