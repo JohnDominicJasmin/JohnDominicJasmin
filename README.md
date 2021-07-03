@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JohnDominicJasmin
 - 💞️ I’m looking to collaborate on anyone who knows how to code
 - 📫 How to reach me johndominicjasmin@gmail.com
-- 📱 I'm currently learning Native Development in Android Java|Kotlin
+- 🧑‍💻 I'm currently learning Native Development in Android
 
 
 <!---
