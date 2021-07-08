@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **johndominicjasmin@gmail.com**
 
-- ⏲ Time is my biggest asset.
 
 
 <h3 align="left">Languages and Tools:</h3>
