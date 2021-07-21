@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **johndominicjasmin@gmail.com**
 
-- 👨‍🍳Codechef account https://www.codechef.com/users/mikomiko24
+
 
 
 <h3 align="left">Languages and Tools:</h3>
