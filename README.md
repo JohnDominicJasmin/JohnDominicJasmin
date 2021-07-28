@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Dominic </h1>
 <h3 align="center">A Passionate Software Engineer</h3>
 
-- 🌱 I’m currently learning Android Development using **Java|Kotlin**
+- 🌱 I’m currently learning Native Development in Android
 
 - 👨‍💻 All of my projects are available at [https://github.com/JohnDominicJasmin?tab=repositories](https://github.com/JohnDominicJasmin?tab=repositories)
 
