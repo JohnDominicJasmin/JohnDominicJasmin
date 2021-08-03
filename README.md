@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm John Dominic </h1>
-<h3 align="center">A Passionate Software Engineer</h3>
+
+
 
 - 🌱 I’m currently learning Native Android Development
 
