@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Native Android Development
+- 🌱 I’m currently learning Native Android Development | Design patterns | Data structures and algorithms
 
 - 👨‍💻 All of my projects are available at [https://github.com/JohnDominicJasmin?tab=repositories](https://github.com/JohnDominicJasmin?tab=repositories)
 
