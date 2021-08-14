@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Dominic</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johndominic&label=Profile%20views&color=0e75b6&style=flat" alt="johndominic" /> </p>
 
-- 🔭 I’m currently working on my Side project **Byahero App**
+- 🔭 I’m currently working on my personal project **Byahero App**
 
 - 🌱 I’m currently learning Native Android Development using **Java|Kotlin** and Design patterns and principles
 
