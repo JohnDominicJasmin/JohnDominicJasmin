@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/JohnDominicJasmin?tab=repositories](https://github.com/JohnDominicJasmin?tab=repositories)
 
 - 📫 How to reach me **johndominicjasmin@gmail.com**
-- 
+
 - 👯 I’m looking to collaborate on anyone who knows how to code
 
 <h3 align="left">Languages and Tools:</h3>
