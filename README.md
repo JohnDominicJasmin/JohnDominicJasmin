@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on anyone who knows how to code
 
-\
+
 
 ![JohnDominicJasmin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnDominicJasmin&theme=vue-dark&hide_border=false)
 
