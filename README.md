@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JohnDominicJasmin?tab=repositories](https://github.com/JohnDominicJasmin?tab=repositories)
 
-- 📫 How to reach me **johndominicjasmin@gmail.com**|https://www.facebook.com/johndominic.cabal/
+- 📫 How to reach me **johndominicjasmin@gmail.com** or https://www.facebook.com/johndominic.cabal/
 
 - 👯 I’m looking to collaborate on anyone who knows how to code
 
