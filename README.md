@@ -11,6 +11,7 @@
 
 - 👯 I’m looking to collaborate on anyone who knows how to code
 
+- 👨‍💻 Second year college student at Batangas State University 
 
 ![JohnDominicJasmin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnDominicJasmin&theme=vue-dark&hide_border=false)
 
