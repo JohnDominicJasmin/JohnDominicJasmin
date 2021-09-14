@@ -1,7 +1,7 @@
 <h1 align="center">Hi <a href="https://emoji.gg/emoji/wavegif_1860"><img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="64px" height="64px" alt="wavegif"></a>, I'm John Dominic</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johndominic&label=Profile%20views&color=0e75b6&style=flat" alt="johndominic" /> </p>
 
-- 🧑‍🏫 I am John Dominic, a Second year College Student
+- 🧑‍🏫 I am John Dominic, a Second-year College Student
 
 - 🔭 I’m currently working on my personal project **Byahero App**
 
