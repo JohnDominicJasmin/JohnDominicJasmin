@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johndominic&label=Profile%20views&color=0e75b6&style=flat" alt="johndominic" /> </p>
 
 ![](https://github.com/JohnDominicJasmin/JohnDominicJasmin/blob/main/YTYL0J6.gif)
-- 🧑‍🏫 I am **Passionate in Programming and Tech**.
 
 - 🔭 I’m currently working on my personal project **Byahero App**
 
