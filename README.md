@@ -11,9 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JohnDominicJasmin?tab=repositories](https://github.com/JohnDominicJasmin?tab=repositories)
 
-- 📫 How to reach me **johndominicjasmin@gmail.com** 
 
-- 👯 I’m looking to collaborate on anyone who knows how to code
 
 ![JohnDominicJasmin's Stats](https://github-readme-stats.vercel.app/api?username=JohnDominicJasmin&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
 ![JohnDominicJasmin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnDominicJasmin&theme=gruvbox&hide_border=false)
