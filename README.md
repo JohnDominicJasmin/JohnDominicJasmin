@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on my personal project **Byahero App**
 
-- 🌱 I’m currently learning **Design Patterns** and Native Android Development using **Java|Kotlin** 
+- 🌱 I’m currently learning **Design Patterns and Principles** and Native Android Development using **Java|Kotlin** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/JohnDominicJasmin?tab=repositories](https://github.com/JohnDominicJasmin?tab=repositories)
 
