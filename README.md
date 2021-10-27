@@ -1,4 +1,4 @@
-
+![](banner.png)
 
 <h1 align="center">Hi <a href="https://emoji.gg/emoji/wavegif_1860"><img src="https://emoji.gg/assets/emoji/wavegif_1860.gif" width="64px" height="64px" alt="wavegif"></a>, I'm John Dominic</h1>
 
