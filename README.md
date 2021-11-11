@@ -16,7 +16,7 @@
 <a href="https://app.daily.dev/johndominic"><img src="https://api.daily.dev/devcards/c4127bbd29774a229e662543e16d5eb6.png?r=sdx" width="330" alt="John Dominic's Dev Card"/></a>
 
 ![JohnDominicJasmin's Stats](https://github-readme-stats.vercel.app/api?username=JohnDominicJasmin&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
-![JohnDominicJasmin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnDominicJasmin&theme=gruvbox&hide_border=false)
+
 
 
 
