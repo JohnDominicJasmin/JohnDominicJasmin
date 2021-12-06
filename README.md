@@ -11,9 +11,6 @@
 - 🔭 I’m currently working on my personal project **Byahero App**
 
 
-- 🌱 I’m currently learning Native Android Development using **Java|Kotlin** 
-
-
 - 👨‍💻 All of my projects are available at [https://github.com/JohnDominicJasmin?tab=repositories](https://github.com/JohnDominicJasmin?tab=repositories)
 
 <a href="https://app.daily.dev/johndominic"><img src="https://api.daily.dev/devcards/c4127bbd29774a229e662543e16d5eb6.png?r=sdx" width="330" alt="John Dominic's Dev Card"/></a>
