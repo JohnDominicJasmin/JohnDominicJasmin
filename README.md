@@ -6,11 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johndominic&label=Profile%20views&color=0e75b6&style=flat" alt="johndominic" /> </p>
 
 - 🧑‍🏫 I'm a 2nd-year college at Batangas State University. 
-
-
 - 🔭 I’m currently working on my personal project **Byahero App**
-
-
 - 👨‍💻 All of my projects are available at [https://github.com/JohnDominicJasmin?tab=repositories](https://github.com/JohnDominicJasmin?tab=repositories)
 
 <a href="https://app.daily.dev/johndominic"><img src="https://api.daily.dev/devcards/c4127bbd29774a229e662543e16d5eb6.png?r=sdx" width="330" alt="John Dominic's Dev Card"/></a>
