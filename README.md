@@ -7,7 +7,6 @@
 
 - 🧑‍🏫 I'm a 2nd-year college at Batangas State University. 
 - 🔭 I’m currently working on my personal project **Byahero App**
-- 📱 I'm currently learning Android Clean Architecture 
 - 👨‍💻 All of my projects are available at [https://github.com/JohnDominicJasmin?tab=repositories](https://github.com/JohnDominicJasmin?tab=repositories)
 
 
