@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JohnDominicJasmin?tab=repositories](https://github.com/JohnDominicJasmin?tab=repositories)
 
-- ☘️ I’m currently learning <a href = "https://developer.android.com/jetpack/compose">Jetpack Compose</a>
+- ☘️ I’m currently learning <a href = "https://developer.android.com/jetpack/compose">Jetpack Compose</a> | <a href = "https://developer.android.com/jetpack/guide"> Clean Architecture </a> | <a href = "https://www.mongodb.com/" > MongoDB</a>
 
 
 ![JohnDominicJasmin's Stats](https://github-readme-stats.vercel.app/api?username=JohnDominicJasmin&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)                                               
