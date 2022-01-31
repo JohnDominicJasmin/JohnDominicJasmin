@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johndominic&label=Profile%20views&color=0e75b6&style=flat" alt="johndominic" /> </p>
 
-- 🧑‍🏫 I'm a 2nd-year college at Batangas State University. 
+- 🧑‍🏫 I'm a 2nd-year college at <a href= "https://batstate-u.edu.ph/">Batangas State University.</a>
 
 - 👨‍💻 All of my projects are available at [https://github.com/JohnDominicJasmin?tab=repositories](https://github.com/JohnDominicJasmin?tab=repositories)
 
