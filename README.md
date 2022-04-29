@@ -37,6 +37,8 @@
 <a href="https://gradle.org/" target="_blank"> <img src="https://iconape.com/wp-content/files/vf/348927/png/gradle-logo.png" alt="qt" width="40" height="40"/></a>
 <a href="https://www.figma.com/"target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/figma-2296071-1912030.png" alt="qt" width="40" height="40"/></a>
 <a href="https://www.postman.com/"target="_blank"><img src="https://raw.githubusercontent.com/JohnDominicJasmin/JohnDominicJasmin/06e127fdf5196f1604e00b494c6ea93bc8c128b7/postman-icon.svg" alt="postman" width="40" height="40"/></a>
+<a href="https://developer.android.com/jetpack/compose?gclsrc=ds&gclsrc=ds"target="_blank"><img
+src = "https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt = "jetpack compose" width = "40" height = "40"/></a>
 
 </p>
  
