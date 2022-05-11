@@ -11,7 +11,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/JohnDominicJasmin?tab=repositories](https://github.com/JohnDominicJasmin?tab=repositories)
 
 
-
+- ☘️ I’m currently learning <a href = "https://ktor.io/">KTOR</a>
 
 
 
