@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/JohnDominicJasmin?tab=repositories](https://github.com/JohnDominicJasmin?tab=repositories)
 
 - 🍀 I'm currently doing <strong>Android Development</strong> and learning <strong>Web Development</strong> at the same time.
-- 📬 How to reach me: <a href ="https://mail.google.com/mail/"> <span>johndominicjasmin@gmail.com</span></a>
+- 📬 How to reach me: <a href ="https://mail.google.com/mail/"> johndominicjasmin@gmail.com</a>
 
 
 
