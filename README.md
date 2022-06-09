@@ -7,10 +7,10 @@
 
 - 🧑‍🏫 I'm a 2nd-year college at <a href= "https://batstate-u.edu.ph/">Batangas State University.</a>
 
-
 - 👨‍💻 All of my projects are available at [https://github.com/JohnDominicJasmin?tab=repositories](https://github.com/JohnDominicJasmin?tab=repositories)
 
-- I'm currently doing <strong>Android Development</strong> and learning <strong>Web Development</strong> at the same time.
+- 🍀 I'm currently doing <strong>Android Development</strong> and learning <strong>Web Development</strong> at the same time.
+- 📬 How to reach me: johndominicjasmin@gmail.com
 
 
 
