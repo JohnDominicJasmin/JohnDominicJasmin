@@ -41,8 +41,6 @@ src = "https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg
 
  <a href = "https://fastapi.tiangolo.com/" target = "_blank"> <img src = "https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt = "fast_api" width = "40" height = "40"/></a>
  
- https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png
- 
   <a href = "https://www.python.org/" target = "_blank"> <img src = "https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt = "python" width = "40" height = "40"/></a>
 </p>
  
