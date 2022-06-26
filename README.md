@@ -4,7 +4,7 @@
 
 - 🧑‍🏫 I'm a 3rd-year college at <a href= "https://batstate-u.edu.ph/">Batangas State University.</a>
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/JohnDominicJasmin?tab=repositorie">My Projects</a>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/JohnDominicJasmin?tab=repositories">My Projects</a>
 
 - 🍀 I'm currently doing <strong>Android Development</strong>.
 
