@@ -66,6 +66,7 @@ src = "https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg
    <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/2015+microsoft+visualstudio+icon-1320192290698095218.png" alt="Visual Studio" width="50" height="50"/> </a>
      <a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/mysql-workbench.png" alt="Visual Studio" width="50" height="50"/> </a>
           <a href="https://www.phpmyadmin.net/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PhpMyAdmin_logo_2010_hidef.svg/640px-PhpMyAdmin_logo_2010_hidef.svg.png" alt="PhpMyAdmin" width="50" height="50"/> </a>
+       <a href="https://www.phpmyadmin.net/" target="_blank"> <img src="https://okli.in/wp-content/uploads/2021/04/resticon-removebg-preview.png" alt="PhpMyAdmin" width="50" height="50"/> </a>
 
 
 
