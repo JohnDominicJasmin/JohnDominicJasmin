@@ -44,7 +44,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> </a><a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> 
 <a href="https://gradle.org/" target="_blank"> <img src="https://iconape.com/wp-content/files/vf/348927/png/gradle-logo.png" alt="qt" width="50" height="50"/></a><a href="https://www.figma.com/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/figma-2296071-1912030.png" alt="qt" width="50" height="50"/></a><a href="https://www.postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/JohnDominicJasmin/JohnDominicJasmin/06e127fdf5196f1604e00b494c6ea93bc8c128b7/postman-icon.svg" alt="postman" width="50" height="50"/></a>
 <a href="https://developer.android.com/jetpack/compose?gclsrc=ds&gclsrc=ds" target="_blank"><img
-src = "https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt = "jetpack compose" width = "50" height = "50"/></a><a href = "https://fastapi.tiangolo.com/" target = "_blank"> <img src = "https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt = "fast_api" width = "50" height = "50"/></a>
+src = "https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt = "jetpack compose" width = "50" height = "50"/></a><a href = "https://fastapi.tiangolo.com/" target = "_blank"> <img src = "https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt = "fast_api" width = "50" height = "50"/></a>      <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api" target="_blank"> <img src="https://okli.in/wp-content/uploads/2021/04/resticon-removebg-preview.png" alt="REST" width="50" height="50"/> </a>
 
 
  
@@ -66,7 +66,7 @@ src = "https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg
    <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/2015+microsoft+visualstudio+icon-1320192290698095218.png" alt="Visual Studio" width="50" height="50"/> </a>
      <a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/mysql-workbench.png" alt="Visual Studio" width="50" height="50"/> </a>
           <a href="https://www.phpmyadmin.net/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PhpMyAdmin_logo_2010_hidef.svg/640px-PhpMyAdmin_logo_2010_hidef.svg.png" alt="PhpMyAdmin" width="50" height="50"/> </a>
-       <a href="https://www.phpmyadmin.net/" target="_blank"> <img src="https://okli.in/wp-content/uploads/2021/04/resticon-removebg-preview.png" alt="PhpMyAdmin" width="50" height="50"/> </a>
+ 
 
 
 
