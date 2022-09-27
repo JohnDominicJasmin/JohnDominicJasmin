@@ -8,6 +8,8 @@
 
 - 🍀 I'm currently doing <strong>Android Development</strong>.
 
+- 👨‍ Checkout my <a href = "https://john-dominic.netlify.app/" /> <b>Portfolio</b> </a>
+
 - 📬 How to reach me: <a href ="https://mail.google.com/mail/"> johndominicjasmin@gmail.com</a>
 
 ![JohnDominicJasmin's Stats](https://github-readme-stats.vercel.app/api?username=JohnDominicJasmin&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
