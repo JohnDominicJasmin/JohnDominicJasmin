@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/JohnDominicJasmin?tab=repositories">Project Repositories.</a>
 
-- 🍀 I'm currently doing <strong>Android Development</strong>.
+- 🍀 I'm currently doing <strong>Android Development | Flutter Development</strong>.
 
 - 👨‍ Checkout my <a href = "https://john-dominic.netlify.app/" /> <b>Portfolio</b> </a>
 
