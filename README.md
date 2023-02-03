@@ -52,6 +52,7 @@
 <a href="https://developer.android.com/jetpack/compose?gclsrc=ds&gclsrc=ds" target="_blank"><img
 src = "https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt = "jetpack compose" width = "50" height = "50"/></a><a href = "https://fastapi.tiangolo.com/" target = "_blank"> <img src = "https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt = "fast_api" width = "50" height = "50"/></a>      <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api" target="_blank"> <img src="https://okli.in/wp-content/uploads/2021/04/resticon-removebg-preview.png" alt="REST" width="50" height="50"/> </a>
  <a href="https://flutter.dev/?gclsrc=ds&gclsrc=ds" target="_blank"> <img src="https://github.com/JohnDominicJasmin/JohnDominicJasmin/blob/main/flutter.png" alt="bash" width="50" height="50"/> </a><a href="https://developer.android.com" target="_blank">
+  <a href="https://socket.io/" target="_blank"> <img src="https://github.com/JohnDominicJasmin/JohnDominicJasmin/blob/main/logo-dark.png" alt="bash" width="50" height="50"/> </a><a href="https://developer.android.com" target="_blank">
 
 
  
