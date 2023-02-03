@@ -70,16 +70,7 @@ src = "https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/JohnDominicJasmin/JohnDominicJasmin/blob/main/node.png" alt="mysql" width="50" height="50"/> </a>   
    
 
-<h2 align="left">IDE | Code Editor:</h2>
-<a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="50" height="50"/> </a>
-   <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" width="50" height="50"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VsCode" width="50" height="50"/> </a><a href="https://www.jetbrains.com/datagrip/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/datagrip-icon-logo-svg-vector.svg" alt="VsCode" width="50" height="50"/> </a><a href="https://netbeans.apache.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" alt="Netbeans" width="50" height="50"/> </a><a href="https://developer.android.com/studio" target="_blank"> <img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" alt="Netbeans" width="50" height="50"/> </a>
-   <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/2015+microsoft+visualstudio+icon-1320192290698095218.png" alt="Visual Studio" width="50" height="50"/> </a>
-     <a href="https://www.mysql.com/products/workbench/" target="_blank"> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2020/04/mysql-workbench.png" alt="Visual Studio" width="50" height="50"/> </a>
-          <a href="https://www.phpmyadmin.net/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/PhpMyAdmin_logo_2010_hidef.svg/640px-PhpMyAdmin_logo_2010_hidef.svg.png" alt="PhpMyAdmin" width="50" height="50"/> </a>
- 
- 
- 
- 
+
 
 
 
