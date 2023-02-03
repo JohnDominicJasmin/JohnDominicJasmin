@@ -52,7 +52,7 @@
 <a href="https://developer.android.com/jetpack/compose?gclsrc=ds&gclsrc=ds" target="_blank"><img
 src = "https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png" alt = "jetpack compose" width = "50" height = "50"/></a>
  <a href="https://flutter.dev/?gclsrc=ds&gclsrc=ds" target="_blank"> <img src="https://github.com/JohnDominicJasmin/JohnDominicJasmin/blob/main/flutter.png" alt="bash" width="50" height="50"/> </a><a href="https://developer.android.com" target="_blank">
-  <a href="https://socket.io/" target="_blank"> <img src="https://github.com/JohnDominicJasmin/JohnDominicJasmin/blob/main/logo-dark.png" alt="bash" width="50" height="50"/> </a><a href="https://developer.android.com" target="_blank">
+  <a href="https://socket.io/" target="_blank"> <img src="https://github.com/JohnDominicJasmin/JohnDominicJasmin/blob/main/logo-dark.png" alt="bash" width="50" height="50"/> </a><a href="https://developer.android.com" target="_blank"> </a>
 
 
  
@@ -67,11 +67,10 @@ src = "https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg
   <h2 align="left">Back-end:</h2>
 
    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a><a href="https://firebase.google.com/docs/firestore" target="_blank"> <img src="https://seeklogo.com/images/F/firestore-logo-3828671CC5-seeklogo.com.png" alt="FireStore" width="50" height="50"/> </a><a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1200px-Sqlite-square-icon.svg.png" alt="Sqlite" width="50" height="50"/> </a>
-  <a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/JohnDominicJasmin/JohnDominicJasmin/blob/main/node.png" alt="mysql" width="50" height="50"/> </a>   
- <a href = "https://fastapi.tiangolo.com/" target = "_blank"> <img src = "https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt = "fast_api" width = "50" height = "50"/></a>    
- <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api" target="_blank"> <img src="https://okli.in/wp-content/uploads/2021/04/resticon-removebg-preview.png" alt="REST" width="50" height="50"/> </a>
-   
+  <a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/JohnDominicJasmin/JohnDominicJasmin/blob/main/node.png" alt="mysql" width="50" height="50"/> </a>    <a href = "https://fastapi.tiangolo.com/" target = "_blank"> <img src = "https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt = "fast_api" width = "50" height = "50"/></a>     <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api" target="_blank"> <img src="https://okli.in/wp-content/uploads/2021/04/resticon-removebg-preview.png" alt="REST" width="50" height="50"/></a>
+ 
 
+   
 
 
 
