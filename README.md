@@ -6,7 +6,6 @@
 
 ![Animation](https://github.com/JohnDominicJasmin/JohnDominicJasmin/blob/main/YTYL0J6.gif)
 
-- 👨‍💻 All of my projects are available at <a href="https://github.com/JohnDominicJasmin?tab=repositories">Project Repositories.</a>
 
 - 🍀 I'm currently doing <strong>Mobile Development</strong>.
 
