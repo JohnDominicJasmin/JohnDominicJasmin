@@ -7,7 +7,6 @@
 ![Animation](https://github.com/JohnDominicJasmin/JohnDominicJasmin/blob/main/YTYL0J6.gif)
 
 
-- 🍀 I'm currently doing <strong>Mobile Development</strong>.
 
 - 👨‍ Checkout my <a href = "https://john-dominic.netlify.app/" /> <b>Portfolio</b> </a>
 
