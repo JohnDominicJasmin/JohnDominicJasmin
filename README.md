@@ -10,7 +10,6 @@
 
 - 👨‍ Checkout my <a href = "https://john-dominic.netlify.app/" /> <b>Portfolio</b> </a>
 
-- 👨‍ I am a third-year BSIT student at <a href = "https://batstate-u.edu.ph/campuses/malvar/" /> Batangas State University. </a>
 
 - 📬 How to reach me: <a href ="https://mail.google.com/mail/"> johndominicjasmin@gmail.com</a>
 
