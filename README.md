@@ -8,7 +8,7 @@
 
 
 
-- 👨‍ Checkout my <a href = "https://john-dominic.netlify.app/" /> <b>Portfolio</b> </a>
+- 👨‍ Checkout my <a href = "https://john-dominic-portfolio.netlify.app/" /> <b>Portfolio</b> </a>
 
 
 - 📬 How to reach me: <a href ="https://mail.google.com/mail/"> johndominicjasmin@gmail.com</a>
